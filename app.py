@@ -34,7 +34,7 @@ st.set_page_config(
 
 # Title
 
-st.title("📈 Algorithmic Trading Backtester")
+st.title("📈 Algorithmic Trading Backtester by Mitul Thakur")
 
 st.write(
     "Test trading strategies using historical market data "
