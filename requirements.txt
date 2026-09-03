@@ -4,4 +4,4 @@ pandas
 numpy
 plotly
 ta
-sckit-learn
+scikit-learn    
